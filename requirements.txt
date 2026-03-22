@@ -1,6 +1,0 @@
-aiogram
-huggingface_hub
-python-dotenv   
-transformers
-torch
-
